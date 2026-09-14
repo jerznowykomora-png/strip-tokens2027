@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jerznowykomora-png.github.io/strip-tokens2027/sitemap.xml
